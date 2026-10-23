@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        h2 { color: #003366; }
+        table { width: 100%; border-collapse: collapse; margin-top: 15px; }
+        th, td { border: 1px solid #ccc; padding: 10px; text-align: left; }
+        th { background-color: #003366; color: white; }
+    </style>
+</head>
+<body>
+    <h2>New Flight Schedule</h2>
+    <table>
+        <tr>
+            <th>Flight Name</th>
+            <th>Starting Place</th>
+            <th>Destination</th>
+            <th>Arrival Time</th>
+            <th>Airfare ($)</th>
+        </tr>
+        <tr>
+            <td>TA-101</td>
+            <td>New York (JFK)</td>
+            <td>London (LHR)</td>
+            <td>06:30 AM</td>
+            <td>650</td>
+        </tr>
+        <tr>
+            <td>TA-204</td>
+            <td>Los Angeles (LAX)</td>
+            <td>Tokyo (HND)</td>
+            <td>02:15 PM</td>
+            <td>980</td>
+        </tr>
+    </table>
+</body>
+</html>
