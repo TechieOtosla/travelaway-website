@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TravelAway Airlines - Home</title>
+</head>
+<frameset cols="25%,75%">
+    <!-- Frame 1: Navigation Menu -->
+    <frame src="navigation.html" name="navFrame" noresize="noresize" />
+    <!-- Frame 2: Main Content (Defaults to About Us) -->
+    <frame src="about.html" name="contentFrame" />
+</frameset>
+</html>

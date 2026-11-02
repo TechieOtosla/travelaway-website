@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; line-height: 1.6; }
+        h2 { color: #003366; }
+    </style>
+</head>
+<body>
+    <h2>About TravelAway Airlines</h2>
+    <p>TravelAway Airlines is a renowned name in the aviation industry. We offer 24 hours a day, 7 days a week service to 120 destinations across the world.</p>
+</body>
+</html>

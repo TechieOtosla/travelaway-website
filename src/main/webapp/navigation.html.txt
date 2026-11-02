@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f4f6f9; padding: 15px; }
+        h3 { color: #003366; }
+        ul { list-style-type: none; padding: 0; }
+        li { margin-bottom: 15px; }
+        a { text-decoration: none; color: #0066cc; font-weight: bold; font-size: 16px; }
+        a:hover { color: #003366; text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <h3>TravelAway</h3>
+    <ul>
+        <li><a href="about.html" target="contentFrame">About Us</a></li>
+        <li><a href="schedule.html" target="contentFrame">Schedule of Flights</a></li>
+        <li><a href="register.html" target="contentFrame">Registration Form</a></li>
+        <li><a href="partners.html" target="contentFrame">Business Partners</a></li>
+        <li><a href="contact.html" target="contentFrame">Contact Us</a></li>
+    </ul>
+</body>
+</html>

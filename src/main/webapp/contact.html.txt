@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head><style>body{font-family:Arial,sans-serif;padding:25px;} h2{color:#003366;}</style></head>
+<body>
+    <h2>Contact Us</h2>
+    <p>Customer Support: Available 24/7</p>
+    <p>Email: support@travelaway.com</p>
+    <p>Phone: +1-800-TRAVELAWAY</p>
+</body>
+</html>

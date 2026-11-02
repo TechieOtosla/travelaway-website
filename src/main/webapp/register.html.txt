@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        h2 { color: #003366; }
+        .form-group { margin-bottom: 12px; }
+        label { display: inline-block; width: 150px; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h2>Flight Registration Form</h2>
+    <form action="#" method="post">
+        <div class="form-group">
+            <label>First Name:</label>
+            <input type="text" name="firstName" required>
+        </div>
+        <div class="form-group">
+            <label>Last Name:</label>
+            <input type="text" name="lastName" required>
+        </div>
+        <div class="form-group">
+            <label>Age:</label>
+            <input type="number" name="age" required>
+        </div>
+        <div class="form-group">
+            <label>Email ID:</label>
+            <input type="email" name="email" required>
+        </div>
+        <div class="form-group">
+            <label>Gender:</label>
+            <input type="radio" name="gender" value="Male"> Male
+            <input type="radio" name="gender" value="Female"> Female
+        </div>
+        <div class="form-group">
+            <label>Select Flight:</label>
+            <select name="flight">
+                <option value="TA-101">TA-101 (New York to London)</option>
+                <option value="TA-204">TA-204 (Los Angeles to Tokyo)</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label>Comments:</label><br>
+            <textarea name="comments" rows="3" cols="30"></textarea>
+        </div>
+        <input type="submit" value="Submit">
+        <input type="reset" value="Reset">
+    </form>
+</body>
+</html>

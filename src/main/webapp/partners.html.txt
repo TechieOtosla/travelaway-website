@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<head><style>body{font-family:Arial,sans-serif;padding:25px;} h2{color:#003366;}</style></head>
+<body>
+    <h2>Our Business Partners</h2>
+    <p>We partner with top global airlines, luxury hotel chains, and premium car rental services worldwide.</p>
+</body>
+</html>
