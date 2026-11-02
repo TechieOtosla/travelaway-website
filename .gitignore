@@ -1,0 +1,8 @@
+/target/
+.settings/
+.classpath
+.project
+.apt_generated/
+.sts_cache/
+bin/
+*.log
